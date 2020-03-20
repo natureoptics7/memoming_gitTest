@@ -1,0 +1,6 @@
+Python
+bracket pir colorizer
+color hightlight
+highlight-selections-vscode
+arepl for python
+power mode
